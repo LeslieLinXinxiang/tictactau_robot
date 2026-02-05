@@ -1,0 +1,17 @@
+# Linker Hand Dependencies
+python-can==4.5.0
+pyserial==3.5
+minimalmodbus==2.1.1
+pymodbus==3.5.1
+python-can-candle==1.2.3
+candle_api==0.0.11
+
+# MuJoCo & Simulation (Legacy support)
+mujoco==3.2.3
+mujoco-py==2.1.2.14
+
+# Scientific & ROS Tools
+numpy
+scipy
+rospkg
+netifaces

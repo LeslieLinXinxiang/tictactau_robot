@@ -1,0 +1,6 @@
+ros_ws/build/
+ros_ws/devel/
+ros_ws/logs/
+__pycache__/
+*.pyc
+.DS_Store
